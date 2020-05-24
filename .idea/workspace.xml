@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ad92741-02dc-46ab-9b3b-6820b83f93f9" name="Default Changelist" comment="" />
+    <list default="true" id="9ad92741-02dc-46ab-9b3b-6820b83f93f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/core/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +33,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1cMBBSX8D0b8LqTwhiHm25FM9Rn" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,6 +44,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -79,9 +87,9 @@
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
     <state x="817" y="290" width="424" height="514" key="FileChooserDialogImpl/0.28.1920.1052@0.28.1920.1052" timestamp="1590336430235" />
-    <state x="337" y="117" width="1395" height="863" key="new project wizard" timestamp="1590336725721">
+    <state x="445" y="143" width="1395" height="863" key="new project wizard" timestamp="1590337079172">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state x="337" y="117" width="1395" height="863" key="new project wizard/0.28.1920.1052@0.28.1920.1052" timestamp="1590336725721" />
+    <state x="445" y="143" width="1395" height="863" key="new project wizard/0.28.1920.1052@0.28.1920.1052" timestamp="1590337079172" />
   </component>
 </project>
