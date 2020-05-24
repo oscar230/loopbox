@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ad92741-02dc-46ab-9b3b-6820b83f93f9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cMBBSX8D0b8LqTwhiHm25FM9Rn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ad92741-02dc-46ab-9b3b-6820b83f93f9" name="Default Changelist" comment="" />
+      <created>1590328445837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590328445837</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="628" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590335783856">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="628" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1590335783856" />
+    <state x="870" y="169" width="590" height="728" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1590336354647">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="870" y="169" width="590" height="728" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1590336354647" />
+    <state x="817" y="290" width="424" height="514" key="FileChooserDialogImpl" timestamp="1590336430235">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="817" y="290" width="424" height="514" key="FileChooserDialogImpl/0.28.1920.1052@0.28.1920.1052" timestamp="1590336430235" />
+    <state x="337" y="117" width="1395" height="863" key="new project wizard" timestamp="1590336725721">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="337" y="117" width="1395" height="863" key="new project wizard/0.28.1920.1052@0.28.1920.1052" timestamp="1590336725721" />
+  </component>
+</project>
