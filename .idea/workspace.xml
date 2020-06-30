@@ -19,19 +19,30 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ad92741-02dc-46ab-9b3b-6820b83f93f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/gui/src/main/java/home.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gui/src/main/java/home.java" afterDir="false" />
+    <list default="true" id="1d874fb9-335d-4107-a04e-dc318b6c0ba4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/gui/GUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/loopbox.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gui/Home.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gui/Home.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/gui/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gui/Home.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaFXApplication" />
         <option value="Class" />
       </list>
     </option>
@@ -39,7 +50,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1cMBBSX8D0b8LqTwhiHm25FM9Rn" />
+  <component name="ProjectId" id="1ctvKSTF4g63GXcos4LvqYLXE4b" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -48,31 +59,49 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="238" />
-    <property name="jdk.selected.JAVA_MODULE" value="11" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="444" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-    </key>
-  </component>
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="9ad92741-02dc-46ab-9b3b-6820b83f93f9" name="Default Changelist" comment="" />
-      <created>1590328445837</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1590328445837</updated>
-    </task>
-    <servers />
+  <component name="RunManager" selected="Application.GUI">
+    <configuration name="GUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.GUI" />
+      <module name="loopbox.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="loopbox" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="loopbox.Loopbox" />
+      <module name="loopbox.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loopbox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.loopbox" />
+      <item itemvalue="Application.GUI" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GUI" />
+        <item itemvalue="Application.loopbox" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -86,33 +115,66 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
   <component name="WindowStateProjectService">
-    <state x="443" y="131" width="1024" height="843" key="#Project_Structure" timestamp="1590337173771">
+    <state x="914" y="351" width="735" height="506" key="#Notifications" timestamp="1593385611384">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state x="443" y="131" width="1024" height="843" key="#Project_Structure/0.28.1920.1052@0.28.1920.1052" timestamp="1590337173771" />
-    <state x="628" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590335783856">
+    <state x="914" y="351" width="735" height="506" key="#Notifications/0.28.1920.1052@0.28.1920.1052" timestamp="1593385611384" />
+    <state x="443" y="131" width="1024" height="843" key="#Project_Structure" timestamp="1591361272135">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state x="628" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1590335783856" />
-    <state x="870" y="169" width="590" height="728" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1590336354647">
+    <state x="443" y="131" width="1024" height="843" key="#Project_Structure/0.28.1920.1052@0.28.1920.1052" timestamp="1591361272135" />
+    <state x="418" y="212" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592154630843">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state x="870" y="169" width="590" height="728" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1590336354647" />
-    <state x="817" y="290" width="424" height="514" key="FileChooserDialogImpl" timestamp="1590336430235">
+    <state x="418" y="212" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1592154630843" />
+    <state x="692" y="344" width="525" height="417" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1592154629176">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state x="817" y="290" width="424" height="514" key="FileChooserDialogImpl/0.28.1920.1052@0.28.1920.1052" timestamp="1590336430235" />
-    <state x="445" y="143" width="1395" height="863" key="new project wizard" timestamp="1590337079172">
+    <state x="692" y="344" width="525" height="417" key="#com.intellij.ide.util.TreeClassChooserDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1592154629176" />
+    <state x="243" y="28" width="1424" height="1050" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1591368027201">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state x="445" y="143" width="1395" height="863" key="new project wizard/0.28.1920.1052@0.28.1920.1052" timestamp="1590337079172" />
-    <state x="624" y="254" width="672" height="678" key="run.anything.popup" timestamp="1590337552578">
+    <state x="243" y="28" width="1424" height="1050" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1591368027201" />
+    <state x="743" y="312" width="424" height="482" key="FileChooserDialogImpl" timestamp="1591366078797">
       <screen x="0" y="28" width="1920" height="1052" />
     </state>
-    <state x="624" y="254" width="672" height="678" key="run.anything.popup/0.28.1920.1052@0.28.1920.1052" timestamp="1590337552578" />
+    <state x="743" y="312" width="424" height="482" key="FileChooserDialogImpl/0.28.1920.1052@0.28.1920.1052" timestamp="1591366078797" />
+    <state width="1870" height="264" key="GridCell.Tab.0.bottom" timestamp="1592155684864">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1870" height="264" key="GridCell.Tab.0.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1592155684864" />
+    <state width="1870" height="264" key="GridCell.Tab.0.center" timestamp="1592155684863">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1870" height="264" key="GridCell.Tab.0.center/0.28.1920.1052@0.28.1920.1052" timestamp="1592155684863" />
+    <state width="1870" height="264" key="GridCell.Tab.0.left" timestamp="1592155684862">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1870" height="264" key="GridCell.Tab.0.left/0.28.1920.1052@0.28.1920.1052" timestamp="1592155684862" />
+    <state width="1870" height="264" key="GridCell.Tab.0.right" timestamp="1592155684864">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1870" height="264" key="GridCell.Tab.0.right/0.28.1920.1052@0.28.1920.1052" timestamp="1592155684864" />
+    <state width="1870" height="341" key="GridCell.Tab.1.bottom" timestamp="1591367516774">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1870" height="341" key="GridCell.Tab.1.bottom/0.28.1920.1052@0.28.1920.1052" timestamp="1591367516774" />
+    <state width="1870" height="341" key="GridCell.Tab.1.center" timestamp="1591367516773">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1870" height="341" key="GridCell.Tab.1.center/0.28.1920.1052@0.28.1920.1052" timestamp="1591367516773" />
+    <state width="1870" height="341" key="GridCell.Tab.1.left" timestamp="1591367516772">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1870" height="341" key="GridCell.Tab.1.left/0.28.1920.1052@0.28.1920.1052" timestamp="1591367516772" />
+    <state width="1870" height="341" key="GridCell.Tab.1.right" timestamp="1591367516773">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state width="1870" height="341" key="GridCell.Tab.1.right/0.28.1920.1052@0.28.1920.1052" timestamp="1591367516773" />
+    <state x="358" y="230" key="SettingsEditor" timestamp="1591388216840">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="358" y="230" key="SettingsEditor/0.28.1920.1052@0.28.1920.1052" timestamp="1591388216840" />
   </component>
 </project>

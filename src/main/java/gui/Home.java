@@ -4,18 +4,15 @@ import javax.swing.*;
 
 public class Home extends JFrame {
 
-    private JPanel panel1;
+    private JPanel homePanel;
     private JButton button1;
 
-    public Home(String title){
-        this.setVisible(true);
-        this.setContentPane(new Home("Loopbox").panel1);
-        this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+    public Home(String title) {
+        super(title);
         this.pack();
-    }
 
-    public static void main(String[] args) {
-        System.out.println("Starting Loopbox GUI.");
-        new Home("Loopbox");
+        this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        this.setVisible(true);
+        this.setSize(100,100);
     }
 }
